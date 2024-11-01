@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-# Sumary<br>Proficient Web Developer with a strong background in creating optimized, user-centered websites and applications. Skilled in managing cross-functional teams, providing technical direction and HR support to drive project success. Known for a proactive approach under pressure, a strong work ethic, and a proven ability to foster collaboration and teamwork to achieve project goals efficiently.<br>
+<br>Proficient Web Developer with a strong background in creating optimized, user-centered websites and applications. Skilled in managing cross-functional teams, providing technical direction and HR support to drive project success. Known for a proactive approach under pressure, a strong work ethic, and a proven ability to foster collaboration and teamwork to achieve project goals efficiently.<br>
 
 
 # 💻 Tech Stack:
